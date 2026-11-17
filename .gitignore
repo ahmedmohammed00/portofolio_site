@@ -1,0 +1,14 @@
+﻿node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+*.docx
+/WhatsApp*.jpeg
+/audit/
+/portfolio-deploy.tar.gz
+
+/outputs/
+
+/.openai/

@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.openai
+public/fonts
+package-lock.json
+audit
+*.docx
+*.jpeg
+next-env.d.ts
+outputs/
